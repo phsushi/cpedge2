@@ -68,10 +68,10 @@ Criar um sistema de monitoramento ambiental utilizando Arduino, sensores e atuad
 ### 1. Preparação do Ambiente
 
 - Instale a IDE do Arduino: [Arduino IDE](https://www.arduino.cc/en/software)
-- Instale a biblioteca do **DHT11 e LiquidCrystal I2C**:
-  - Abra a IDE do Arduino
-  - Vá em **Sketch** > **Incluir Biblioteca** > **Gerenciar Bibliotecas**
-  - Procure por "DHT sensor library e LiquidCrystal I2C" (Autores: Adafruit e Frank, respectivavmente) e clique em **Instalar**
+- Abra a IDE do Arduino
+  - Instale a biblioteca do **DHT11 e LiquidCrystal I2C**:
+    - Vá em **Sketch** > **Incluir Biblioteca** > **Gerenciar Bibliotecas**
+    - Procure por "DHT sensor library e LiquidCrystal I2C" (Autores: Adafruit e Frank, respectivavmente) e clique em **Instalar**
 
 ### 2. Montagem dos Componentes
 
